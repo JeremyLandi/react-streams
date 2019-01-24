@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Jeremy Spoke",
+      "description": "He talks a lot",
+      "id": 1
+    },
+    {
+      "title": "Highcharts Demo",
+      "description": "This is a demo",
+      "userId": "112767869725678579285",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Needs history/createBrowserHistory",
+      "userId": "112767869725678579285",
+      "id": 4
+    }
+  ]
+}
